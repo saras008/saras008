@@ -1,7 +1,5 @@
 ### Hi I'm Iyus Dedi Putra - aka [saras008][website] 👋 
 
-## I'm a Husband, System Administrator, DevOps and tiny crypto investor
-
 - 🔭 I'm count down to become a father
 - 🌱 I like to learn everything in tech
 - 👯 I’m looking for new opportunity
