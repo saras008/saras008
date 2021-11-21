@@ -17,7 +17,16 @@
 <br />
 
 ### Languages and Tools:
-<a href="https://icons8.com/icon/22813/docker"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a><br>
-
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/centos.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/windows/32/000000/huawei-logo.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>/a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/plasticine/100/000000/bash.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/fluency/48/000000/grafana.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a><br>
 <br />
 <br />
