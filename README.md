@@ -17,7 +17,7 @@
 <br />
 
 ### Languages and Tools:
-<a href="https://icons8.com/icon/22813/docker">Docker</a><br>
+<a href="https://icons8.com/icon/22813/docker"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a><br>
 
 <br />
 <br />
