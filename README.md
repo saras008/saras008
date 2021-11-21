@@ -1,4 +1,4 @@
-### Hi I'm Iyus Dedi Putra - aka [saras008][website] 👋 
+### Hi I'm Iyus Dedi Putra - aka saras008 👋 
 
 - 🔭 I'm count down to become a father
 - 🌱 I like to learn everything in tech
