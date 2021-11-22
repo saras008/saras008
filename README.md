@@ -1,6 +1,7 @@
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=zues&font=default)
 
-### Hi I'm Iyus Dedi Putra - aka saras008 👋 
+<h2 align="center">👋 Hi I'm Iyus Dedi Putra - aka saras008 👋</h2>
 
 - 🔭 I'm count down to become a father
 - 🌱 I like to learn everything in tech
@@ -8,27 +9,25 @@
 - 🥅 2022 Goals: Can contribute Open Source projects
 - ⚡ Fun fact: I like cycling and reading about tech and crytocurrencies
 
-### Connect with me:
-
-<a href="https://sysops.us"><img align="left" alt="sysops.us" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
-<a href="https://www.youtube.com/channel/UCA-8_CVsubqXXzbKm26cw_Q"><img align="left" alt="sysops.us | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://twitter.com/idcrypto7"><img align="left" alt="sysops.us | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/iyus-dedi-putra-33a3925b/"><img align="left" alt="sysops.us | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/iyus_simatupang/?hl=en"><img align="left" alt="sysops.us | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://stackoverflow.com/users/7268393/iyus-dedi-putra"><img align="left" alt="sysops.us | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-
+<h2 align="center">Connect with me:</h2>
+<br>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/iyus-dedi-putra-33a3925b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/idcrypto7?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:simatupang2000@gmail.com?subject=Hello%20Iyus,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <br />
+<h2 align="center">Languages and Tools:</h2>
 
-### Languages and Tools:
+<p align="center">
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/centos.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/windows/32/000000/huawei-logo.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/></a><br>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/fluency/48/000000/grafana.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<br />
-<br />
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" /></a>
+</p>
