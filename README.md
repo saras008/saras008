@@ -14,7 +14,8 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/iyus-dedi-putra-33a3925b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/idcrypto7?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:simatupang2000@gmail.com?subject=Hello%20Iyus,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7268393/iyus-dedi-putra" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=square&logo=Stack-Overflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:simatupang2000@gmail.com?subject=Hello%20Iyus,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
