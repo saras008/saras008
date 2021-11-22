@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+<p align=center>![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)</p>
 
 ### Hi I'm Iyus Dedi Putra - aka saras008 👋 
 
