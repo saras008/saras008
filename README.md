@@ -32,7 +32,3 @@
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/fluency/48/000000/grafana.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" /></a>
 </p>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TechRepublic)](https://github.com/gazf/github-readme-twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=idcrypto7)](https://github.com/gazf/github-readme-twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TechCrunch)](https://github.com/gazf/github-readme-twitter)
