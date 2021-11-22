@@ -1,5 +1,4 @@
-![IMG_20180728_230647](https://user-images.githubusercontent.com/17946130/142820461-08753e78-a4bd-4840-bbbb-da7b8d099bda.jpg)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=zues&font=default)
 
 ### Hi I'm Iyus Dedi Putra - aka saras008 👋 
 
