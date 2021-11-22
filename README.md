@@ -21,10 +21,10 @@
 
 <p align="center">
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/centos.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/></a>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/centos.png"/></a>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-<a href="https://hub.docker.com/"><img src="https://img.icons8.com/windows/32/000000/huawei-logo.png"/></a>
+<a href="https://hub.docker.com/"><img src="https://img.icons8.com/windows/48/000000/huawei-logo.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
