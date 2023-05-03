@@ -1,6 +1,4 @@
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=zues&font=default)
-
 <h2 align="center">👋 Hi I'm Iyus Dedi Putra - aka saras008 👋</h2>
 
 - 🔭 I'm count down to become a father
