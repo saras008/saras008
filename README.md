@@ -4,7 +4,7 @@
 - 🔭 I'm count down to become a father
 - 🌱 I like to learn everything in tech
 - 👯 I’m looking for new opportunity
-- 🥅 2022 Goals: Can contribute Open Source projects
+- 🥅 2025 Goals: Can contribute Open Source projects & push script or code 1 per day
 - ⚡ Fun fact: I like cycling and reading about tech and crytocurrencies
 
 <h2 align="center">Connect with me:</h2>
