@@ -30,3 +30,6 @@
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/fluency/48/000000/grafana.png"/></a>
 <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" /></a>
 </p>
+
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/aui2000.png" alt="Your Image Badge" />
+</p>
